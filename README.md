@@ -1,5 +1,3 @@
----
-
 ### 🛠️ Tech Toolbox
 
 | Category | Technologies |
@@ -13,8 +11,8 @@
 ### 📊 GitHub Insights
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lucacer10&show_icons=true&theme=dark" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucacer10&layout=compact&theme=dark" alt="Top Languages" height="150" />
 </p>
 
 ---
