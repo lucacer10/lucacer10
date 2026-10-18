@@ -1,16 +1,26 @@
-## Hi there 👋
 
-<!--
-**lucacer10/lucacer10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🛠️ Tech Toolbox
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | `Python` `Rust` `C++` |
+| **AI / Machine Learning** | `TensorFlow` `PyTorch` |
+| **Data & Vision** | `Pandas` `NumPy` `OpenCV` |
+
+---
+
+### 📊 GitHub Insights
+
+<p align="left">
+  <img src="https://vercel.app" alt="GitHub Stats" height="150" />
+  <img src="https://vercel.app" alt="Top Languages" height="150" />
+</p>
+
+---
+
+### 📬 Let's Connect!
+
+[![LinkedIn](https://shields.io)](www.linkedin.com/in/luca-cerchi-1963673b4)
+[![Email](https://shields.io)](lucacerchi.eng@gmail.com)
